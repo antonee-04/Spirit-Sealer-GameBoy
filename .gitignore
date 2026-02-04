@@ -1,0 +1,21 @@
+# ---- GBDK build outputs ----
+*.o
+*.lst
+*.map
+*.ihx
+*.sym
+*.cdb
+*.adb
+*.asm
+*.noi
+*.rst
+
+# ROM outputs (keep if you WANT to track them; usually don't)
+*.gb
+
+# Windows noise
+Thumbs.db
+Desktop.ini
+
+# VSCode noise (optional)
+.vscode/
