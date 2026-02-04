@@ -1,3 +1,4 @@
 REM Automatically generated from Makefile
-..\..\..\bin\lcc -Wm-yC -o Example.gbc main.c tileset.c
+D:\GameBoy\gbdk-win64\gbdk\bin\lcc -Wm-yC -o Example.gbc main.c tileset.c
+
 
